@@ -1,0 +1,87 @@
+﻿body {
+	background-image: url("../images/ep_naturalwhite.png");
+	
+	
+}
+
+
+.white {
+
+	background: white;
+	margin-bottom: 5%;
+
+}
+
+.grey {
+	background: grey;
+}
+
+h1 {
+
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size: 1.75em;
+	color: white;
+	font-weight: bold;
+	background: #4aaaa5;
+	padding: 25px 25px 25px 25px;
+
+}
+
+h2 {
+
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-size: 1.3em;
+	color: #4aaaa5;
+	font-weight: bold;
+	
+	padding: 25px;
+}
+
+.icon {
+	width: 80px;
+	height: 80px;
+	
+	margin: 0 auto 0 auto;
+}
+
+label {
+	color: gray;
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+input {
+	width: 596px;
+	height: 25px;
+	margin: 10px 0 10px 0;
+	padding: 0;
+	border: 1.5px solid #ccc;
+}
+textarea {
+	width:594px;
+	height: 150px;
+	margin: 10px 0 20px 0;
+	border: 1.5px solid #ccc;
+}
+
+button {
+
+	background-color: #4aaaa5; 
+    border: none;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.foot {
+
+	color: #cccccc;
+	font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.margin {
+
+	margin: 2% 0 2% 0;
+}
